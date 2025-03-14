@@ -1,0 +1,6 @@
+payment_id,order_id,payment_date,payment_method,payment_status
+10001,1,2023-01-22,Credit Card,Completed
+10002,2,2023-02-12,PayPal,Failed
+10003,3,2023-03-06,Credit Card,Completed
+10004,4,2023-04-15,Bank Transfer,Pending
+10005,5,2023-05-22,PayPal,Completed

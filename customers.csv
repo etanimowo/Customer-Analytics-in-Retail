@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,join_date
+101,John,Doe,john.doe@email.com,2023-01-15
+102,Jane,Smith,jane.smith@email.com,2022-11-23
+103,Alice,Johnson,alice.johnson@email.com,2023-03-10
+104,Bob,Brown,bob.brown@email.com,2022-05-04
